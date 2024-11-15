@@ -3,6 +3,7 @@ function App() {
     <div
       style={{
         alignItems: 'center',
+        backgroundColor: '#000',
         display: 'flex',
         height: '100%',
         justifyContent: 'center',
@@ -10,6 +11,7 @@ function App() {
     >
       <h1
         style={{
+          color: '#ddd',
           fontFamily: 'sans-serif',
           fontSize: 48,
         }}
